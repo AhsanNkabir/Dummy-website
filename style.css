@@ -1,0 +1,79 @@
+h1{
+    margin:10px;
+    text-align: center;
+    color:lightseagreen;
+    border:2px solid limegreen;
+}
+.main-section
+{
+    border:2px solid red;
+    border-radius:3px;
+    padding: 10PX;
+    background-color: lightgray;
+    margin: 10px; 
+}
+
+div img{
+    width:30px;
+    height:30px;
+
+}
+div h3{
+    color:black;
+    margin: 0px 0px;
+    font-size: 80px;
+
+}
+div h3:hover{
+    color:blueviolet;
+}
+.div2 h3:hover{
+    color:violet;
+}
+div p{
+    text-align: justify;
+    color: white;
+}
+.div1{
+    background-color: yellow;
+    text-align: center;
+    margin: 0px 1% 0px 1%;
+    width: 29%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.div2{
+    text-align: center;
+    background-color: cyan;
+    margin: 0px 0%;
+    width: 32%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.div2 img{
+    width: 40px;
+    height: 40px;
+}
+.div3{
+    background-color: crimson;
+    text-align: center;
+    margin: 0px 0px 0px 1px;
+    width: 34%;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.div3 img{
+    width: 40px;
+    height: 40px;
+}
+.box:focus{
+    color:whitesmoke;
+    background-color: teal;
+    font-size: 30px;
+}
+#last button:hover{
+    color:red;
+}
